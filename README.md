@@ -1,14 +1,24 @@
 # Caitlin Floyd 👩🏻‍💻 (she/her)
-I am a DC-based full-stack software engineer; motivated by the power of technology as a tool for positive change; and with a background in linguistics, education, and nonprofit management.
+<table>
+  <tr> 
+    <td width="50px" align="center" >
+      <img src="images/initials.png" width="40px">
+    </td>
+    <td>
+      <p>I am a DC-based full-stack software engineer; motivated by the power of technology as a tool for positive change; and with a background in linguistics, education, and nonprofit management.</p>
+    </td>
+  </tr>
+</table>
+
 
 ## Find Me Elsewhere
-- <a href="https://caitlinfloyd.com/"><p><img src="https://image.flaticon.com/icons/svg/876/876765.svg" width="20px;" alt="Portfolio Site"/>  Portfolio Site</p></a>
+- <a href="https://caitlinfloyd.com/"><p><img src="images/branded-link" width="20px;" alt="Portfolio Site"/>  Portfolio Site</p></a>
 
-- <a href="https://www.linkedin.com/in/caitlinfloyd/"><p><img src="https://image.flaticon.com/icons/svg/1409/1409945.svg" width="20px;" alt="LinkedIn"/>  LinkedIn</p></a>
+- <a href="https://www.linkedin.com/in/caitlinfloyd/"><p><img src="images/branded-linkedin.png" width="20px;" alt="LinkedIn"/>  LinkedIn</p></a>
 
-- <a href="https://medium.com/@caitlinfloyd"><p><img src="https://image.flaticon.com/icons/svg/2111/2111543.svg" width="20px;" alt="Medium"/>  Medium</p></a>
+- <a href="https://medium.com/@caitlinfloyd"><p><img src="images/branded-medium.png" width="20px;" alt="Medium"/>  Medium</p></a>
 
-- <a href="https://twitter.com/caitlinfloyd"><p><img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="20px;" alt="Twitter"/>  Twitter</p></a>
+- <a href="https://twitter.com/caitlinfloyd"><p><img src="images/branded-twitter.png" width="20px;" alt="Twitter"/>  Twitter</p></a>
 
 ## Projects
 <table>
