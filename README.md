@@ -1,8 +1,8 @@
 # Caitlin Floyd 👩🏻‍💻 (she/her)
 <table>
   <tr> 
-    <td width="75px" align="center" >
-      <img src="images/initials.png" width="70px" raw=true>
+    <td width="100px" align="center" >
+      <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/initials.png" width="105px" />
     </td>
     <td>
       <p>I am a DC-based full-stack software engineer; motivated by the power of technology as a tool for positive change; and with a background in linguistics, education, and nonprofit management.</p>
@@ -12,13 +12,13 @@
 
 
 ## Find Me Elsewhere
-- <a href="https://caitlinfloyd.com/"><p><img src="images/branded-link.png" width="20px;" alt="Portfolio Site" raw=true />  Portfolio Site</p></a>
+- <a href="https://caitlinfloyd.com/"><p><img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-link.png" width="20px;" alt="Portfolio Site" />  Portfolio Site</p></a>
 
-- <a href="https://www.linkedin.com/in/caitlinfloyd/"><p><img src="images/branded-linkedin.png" width="20px;" alt="LinkedIn" raw=true />  LinkedIn</p></a>
+- <a href="https://www.linkedin.com/in/caitlinfloyd/"><p><img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-linkedin.png" width="20px;" alt="LinkedIn" />  LinkedIn</p></a>
 
-- <a href="https://medium.com/@caitlinfloyd"><p><img src="images/branded-medium.png" width="20px;" alt="Medium"/>  Medium</p></a>
+- <a href="https://medium.com/@caitlinfloyd"><p><img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-medium.png" width="20px;" alt="Medium"/>  Medium</p></a>
 
-- <a href="https://twitter.com/caitlinfloyd"><p><img src="images/branded-twitter.png" width="20px;" alt="Twitter" raw=true />  Twitter</p></a>
+- <a href="https://twitter.com/caitlinfloyd"><p><img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-twitter.png" width="20px;" alt="Twitter" />  Twitter</p></a>
 
 ## Projects
 <table>
