@@ -1,8 +1,25 @@
-# Caitlin Floyd 👩🏻‍💻 (she/her)
+# ![Caitlin Floyd](https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/Github-header.png)
+
+<p align="center">
+  <a href="https://caitlinfloyd.com/">
+    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-link.png" width="30px;" alt="Portfolio Site" />
+  </a>
+  <a href="https://www.linkedin.com/in/caitlinfloyd/">
+    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-linkedin.png" width="30px;" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/caitlinfloyd">
+    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-twitter.png" width="30px;" alt="Twitter" />
+  </a>
+  <a href="https://medium.com/@caitlinfloyd">
+    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-medium.png" width="30px;" alt="Medium"/>
+  </a>
+</p>
+
 <table>
   <tr> 
     <td>
       <p>I am a DC-based full-stack software engineer; motivated by the power of technology as a tool for positive change; and with a background in linguistics, education, and nonprofit management.</p>
+      <p>See <a href="https://caitlinfloyd.com">my website</a> for more information!</p>
     </td>
     <td width="100px" align="center" >
       <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/initials.png" width="105px" />
@@ -11,14 +28,14 @@
 </table>
 
 
-## Find Me Elsewhere
+<!-- ## Find Me Elsewhere
 - <a href="https://caitlinfloyd.com/"><p><img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-link.png" width="20px;" alt="Portfolio Site" />  Portfolio Site</p></a>
 
 - <a href="https://www.linkedin.com/in/caitlinfloyd/"><p><img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-linkedin.png" width="20px;" alt="LinkedIn" />  LinkedIn</p></a>
 
 - <a href="https://twitter.com/caitlinfloyd"><p><img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-twitter.png" width="20px;" alt="Twitter" />  Twitter</p></a>
 
-- <a href="https://medium.com/@caitlinfloyd"><p><img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-medium.png" width="20px;" alt="Medium"/>  Medium</p></a>
+- <a href="https://medium.com/@caitlinfloyd"><p><img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-medium.png" width="20px;" alt="Medium"/>  Medium</p></a> -->
 
 ## Projects
 <table>
