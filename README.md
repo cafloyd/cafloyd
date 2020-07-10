@@ -16,9 +16,9 @@
 
 - <a href="https://www.linkedin.com/in/caitlinfloyd/"><p><img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-linkedin.png" width="20px;" alt="LinkedIn" />  LinkedIn</p></a>
 
-- <a href="https://medium.com/@caitlinfloyd"><p><img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-medium.png" width="20px;" alt="Medium"/>  Medium</p></a>
-
 - <a href="https://twitter.com/caitlinfloyd"><p><img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-twitter.png" width="20px;" alt="Twitter" />  Twitter</p></a>
+
+- <a href="https://medium.com/@caitlinfloyd"><p><img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-medium.png" width="20px;" alt="Medium"/>  Medium</p></a>
 
 ## Projects
 <table>
