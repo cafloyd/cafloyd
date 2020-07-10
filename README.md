@@ -1,11 +1,11 @@
 # Caitlin Floyd 👩🏻‍💻 (she/her)
 <table>
   <tr> 
-    <td width="100px" align="center" >
-      <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/initials.png" width="105px" />
-    </td>
     <td>
       <p>I am a DC-based full-stack software engineer; motivated by the power of technology as a tool for positive change; and with a background in linguistics, education, and nonprofit management.</p>
+    </td>
+    <td width="100px" align="center" >
+      <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/initials.png" width="105px" />
     </td>
   </tr>
 </table>
