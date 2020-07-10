@@ -1,8 +1,8 @@
 # Caitlin Floyd 👩🏻‍💻 (she/her)
 <table>
   <tr> 
-    <td width="50px" align="center" >
-      <img src="images/initials.png" width="40px">
+    <td width="75px" align="center" >
+      <img src="images/initials.png" width="70px">
     </td>
     <td>
       <p>I am a DC-based full-stack software engineer; motivated by the power of technology as a tool for positive change; and with a background in linguistics, education, and nonprofit management.</p>
@@ -12,7 +12,7 @@
 
 
 ## Find Me Elsewhere
-- <a href="https://caitlinfloyd.com/"><p><img src="images/branded-link" width="20px;" alt="Portfolio Site"/>  Portfolio Site</p></a>
+- <a href="https://caitlinfloyd.com/"><p><img src="images/branded-link.png" width="20px;" alt="Portfolio Site"/>  Portfolio Site</p></a>
 
 - <a href="https://www.linkedin.com/in/caitlinfloyd/"><p><img src="images/branded-linkedin.png" width="20px;" alt="LinkedIn"/>  LinkedIn</p></a>
 
