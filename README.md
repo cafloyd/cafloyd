@@ -19,6 +19,8 @@ I am a DC-based full-stack software engineer; motivated by the power of technolo
 
 See [my website](https://caitlinfloyd.com) for more information!
 
+---
+
 ## Projects
 <table>
   <tr>
