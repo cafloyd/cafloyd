@@ -24,7 +24,7 @@ See [my website](https://caitlinfloyd.com) for more information!
 ---
 
 ## Projects
-<table>
+<table bordercolor="#66b2b2">
   <tr>
     <td width="33%" valign="top">
       <a href="https://chrome.google.com/webstore/detail/couch-potato/aheloceipokicgchednkbmlaejgcpllo?hl=en-US" />
@@ -51,6 +51,8 @@ See [my website](https://caitlinfloyd.com) for more information!
         </a>
     </td>
   </tr>
+</table>
+<table>
   <tr>
     <td width="33%" valign="top">
       <a href="https://sendacarekit.herokuapp.com/">
