@@ -28,19 +28,27 @@ See [my website](https://caitlinfloyd.com) for more information!
   <tr>
     <td width="33%">
         <h3>Couch Potato</h3>
-        <a href="https://chrome.google.com/webstore/detail/couch-potato/aheloceipokicgchednkbmlaejgcpllo?hl=en-US">
+        <a href="https://images.ctfassets.net/rzdzst0q8sl8/7IOYLCO7FaiNFLzjmJZte9/2fd6b0fb6c8b298c517c1c58e67740bd/Couch_Potato_logo.png?h=250">
             <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/demo-couch-potato.gif" width="80%" alt="Couch Potato"/>
         </a>
         <br />
         <p><a href="https://github.com/2001-math-max-fury-road/CouchPotato">Repo</a> // <a href="https://chrome.google.com/webstore/detail/couch-potato/aheloceipokicgchednkbmlaejgcpllo?hl=en-US">Extension</a></p>
+        <br />
+        <a href="https://chrome.google.com/webstore/detail/couch-potato/aheloceipokicgchednkbmlaejgcpllo?hl=en-US">
+            <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/demo-couch-potato.gif" width="80%" alt="Couch Potato"/>
+        </a>
     </td>
     <td width="33%">
         <h3>Care Kit</h3>
         <a href="https://sendacarekit.herokuapp.com/">
-          <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/demo-care-kit.gif" width="80%" alt="Care Kit"/>
+          <img src="https://images.ctfassets.net/rzdzst0q8sl8/3oXxnDLThz52SkjZP47Pzk/991d08d246f7a0c5146c16ab223b7700/Care_Kit_logo.png?h=250" width="80%" alt="Care Kit"/>
         </a>
         <br />
         <p><a href="https://github.com/2001-one-flew-over-the-cuckoo/grace-shopper">Repo</a> // <a href="https://sendacarekit.herokuapp.com/">Site</a></p>
+        <br />
+        <a href="https://sendacarekit.herokuapp.com/">
+          <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/demo-care-kit.gif" width="80%" alt="Care Kit"/>
+        </a>
     </td>
         <td width="33%">
         <h3>City Sites</h3>
