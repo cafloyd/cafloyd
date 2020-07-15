@@ -39,6 +39,20 @@ See [my website](https://caitlinfloyd.com) for more information!
         </a>
     </td>
     <td width="33%" valign="top">
+      <h3>Portfolio</h3>
+        <a href="https://caitlinfloyd.com" />
+            <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/initials.png" width="65%" alt="Portfolio"/>
+        </a>
+        <br />
+        <p><a href="https://github.com/cafloyd/devPortfolio">Repo</a> // <a href="https://chrome.google.com/webstore/detail/couch-potato/aheloceipokicgchednkbmlaejgcpllo?hl=en-US">Site</a></p>
+        <br />
+        <a href="https://caitlinfloyd.com">
+            <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/demo-portfolio.gif" width="100%" alt="Couch Potato"/>
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3>Care Kit</h3>
         <a href="https://sendacarekit.herokuapp.com/">
           <img src="https://images.ctfassets.net/rzdzst0q8sl8/3oXxnDLThz52SkjZP47Pzk/991d08d246f7a0c5146c16ab223b7700/Care_Kit_logo.png?h=250" width="65%" alt="Care Kit"/>
