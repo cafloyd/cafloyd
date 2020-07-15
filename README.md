@@ -27,10 +27,10 @@ See [my website](https://caitlinfloyd.com) for more information!
 <table>
   <tr>
     <td width="33%" valign="top">
+      <a href="https://chrome.google.com/webstore/detail/couch-potato/aheloceipokicgchednkbmlaejgcpllo?hl=en-US" />
+          <img src="https://images.ctfassets.net/rzdzst0q8sl8/7IOYLCO7FaiNFLzjmJZte9/2fd6b0fb6c8b298c517c1c58e67740bd/Couch_Potato_logo.png?h=250" width="20%" alt="Couch Potato" align="right"/>
+      </a>
       <h3>Couch Potato</h3>
-        <a href="https://chrome.google.com/webstore/detail/couch-potato/aheloceipokicgchednkbmlaejgcpllo?hl=en-US" />
-            <img src="https://images.ctfassets.net/rzdzst0q8sl8/7IOYLCO7FaiNFLzjmJZte9/2fd6b0fb6c8b298c517c1c58e67740bd/Couch_Potato_logo.png?h=250" width="65%" alt="Couch Potato"/>
-        </a>
         <br />
         <p><a href="https://github.com/2001-math-max-fury-road/CouchPotato">Repo</a> // <a href="https://chrome.google.com/webstore/detail/couch-potato/aheloceipokicgchednkbmlaejgcpllo?hl=en-US">Extension</a></p>
         <br />
@@ -39,10 +39,10 @@ See [my website](https://caitlinfloyd.com) for more information!
         </a>
     </td>
     <td width="33%" valign="top">
+      <a href="https://caitlinfloyd.com" />
+          <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/initials.png" width="20%" alt="Portfolio" align="right"/>
+      </a>
       <h3>Portfolio</h3>
-        <a href="https://caitlinfloyd.com" />
-            <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/initials.png" width="65%" alt="Portfolio"/>
-        </a>
         <br />
         <p><a href="https://github.com/cafloyd/devPortfolio">Repo</a> // <a href="https://chrome.google.com/webstore/detail/couch-potato/aheloceipokicgchednkbmlaejgcpllo?hl=en-US">Site</a></p>
         <br />
@@ -53,9 +53,9 @@ See [my website](https://caitlinfloyd.com) for more information!
   </tr>
   <tr>
     <td width="33%" valign="top">
+      <a href="https://sendacarekit.herokuapp.com/">
+        <img src="https://images.ctfassets.net/rzdzst0q8sl8/3oXxnDLThz52SkjZP47Pzk/991d08d246f7a0c5146c16ab223b7700/Care_Kit_logo.png?h=250" width="20%" alt="Care Kit" align="right"/>
       <h3>Care Kit</h3>
-        <a href="https://sendacarekit.herokuapp.com/">
-          <img src="https://images.ctfassets.net/rzdzst0q8sl8/3oXxnDLThz52SkjZP47Pzk/991d08d246f7a0c5146c16ab223b7700/Care_Kit_logo.png?h=250" width="65%" alt="Care Kit"/>
         </a>
         <br />
         <p><a href="https://github.com/2001-one-flew-over-the-cuckoo/grace-shopper">Repo</a> // <a href="https://sendacarekit.herokuapp.com/">Site</a></p>
@@ -65,8 +65,8 @@ See [my website](https://caitlinfloyd.com) for more information!
         </a>
     </td>
     <td width="33%" valign="top">
+      <img src="https://images.ctfassets.net/rzdzst0q8sl8/7IJ6gnFL7aEsz82M9qesvU/f53de9c2762d974a0fd56e9d3ddfe7c3/City_Sites_logo.png?h=250" width="20%" alt="City Sites" align="right"/>
       <h3>City Sites</h3>
-        <img src="https://images.ctfassets.net/rzdzst0q8sl8/7IJ6gnFL7aEsz82M9qesvU/f53de9c2762d974a0fd56e9d3ddfe7c3/City_Sites_logo.png?h=250" width="65%" alt="City Sites"/>
         <br />
         <p><a href="https://github.com/cafloyd/cityBucketList">Repo</a></p>
     </td>
