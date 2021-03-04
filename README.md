@@ -24,6 +24,7 @@ See [my website](https://caitlinfloyd.com) for more information!
 ---
 
 ## Projects
+
 <table bordercolor="#66b2b2">
   <tr>
     <td width="33%" valign="top">
@@ -54,7 +55,7 @@ See [my website](https://caitlinfloyd.com) for more information!
     </td>
   </tr>
 </table>
-<table>
+<table bordercolor="#66b2b2">
   <tr>
     <td width="33%" valign="top">
       <a href="https://sendacarekit.herokuapp.com/">
@@ -78,3 +79,7 @@ See [my website](https://caitlinfloyd.com) for more information!
     </td>
   </tr>
 </table>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cafloyd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
