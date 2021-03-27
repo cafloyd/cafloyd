@@ -17,7 +17,7 @@
   </a>
 </p>
 
-I am a DC-based full-stack software engineer; motivated by the power of technology as a tool for positive change; and with a background in linguistics, education, and nonprofit management.
+I am a DC-based front-end engineer; motivated by the power of technology as a tool for positive change; and with a background in linguistics, education, and nonprofit management.
 
 See [my website](https://caitlinfloyd.com) for more information!
 
