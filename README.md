@@ -35,10 +35,13 @@ See [my website](https://caitlinfloyd.com) for more information!
         <br />
         <p><a href="https://github.com/2001-math-max-fury-road/CouchPotato">Repo</a> // <a href="https://chrome.google.com/webstore/detail/couch-potato/aheloceipokicgchednkbmlaejgcpllo?hl=en-US">Extension</a></p>
         <br />
+        <details>
+        <summary>More</summary>
         <a href="https://chrome.google.com/webstore/detail/couch-potato/aheloceipokicgchednkbmlaejgcpllo?hl=en-US">
             <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/demo-couch-potato.gif" width="100%" alt="Couch Potato"/>
         </a>
         <p>A Chrome extension allowing multiple users to stream video content together remotely. Built using JavaScript, React.js, Express.js, Socket.io, and Heroku</p>
+        </details>
     </td>
     <td width="33%" valign="top">
       <a href="https://caitlinfloyd.com" />
@@ -48,10 +51,13 @@ See [my website](https://caitlinfloyd.com) for more information!
         <br />
         <p><a href="https://github.com/cafloyd/devPortfolio">Repo</a> // <a href="https://chrome.google.com/webstore/detail/couch-potato/aheloceipokicgchednkbmlaejgcpllo?hl=en-US">Site</a></p>
         <br />
+        <details>
+        <summary>More</summary>
         <a href="https://caitlinfloyd.com">
             <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/demo-portfolio.gif" width="100%" alt="Couch Potato"/>
         </a>
         <p>Built using Javascript, Gatsby.js, React.js, Contentful CMS</p>
+        </details>
     </td>
   </tr>
 </table>
@@ -65,17 +71,24 @@ See [my website](https://caitlinfloyd.com) for more information!
         <br />
         <p><a href="https://github.com/2001-one-flew-over-the-cuckoo/grace-shopper">Repo</a> // <a href="https://sendacarekit.herokuapp.com/">Site</a></p>
         <br />
+        <details>
+        <summary>More</summary>
         <a href="https://sendacarekit.herokuapp.com/">
           <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/demo-care-kit.gif" width="100%" alt="Care Kit"/>
         </a>
         <p>An e-commerce, single-page application for custom care packages. Built using JavaScript, React.js, Express.js, Sequelize, Redux, CSS</p>
+        </details>
     </td>
     <td width="33%" valign="top">
       <img src="https://images.ctfassets.net/rzdzst0q8sl8/7IJ6gnFL7aEsz82M9qesvU/f53de9c2762d974a0fd56e9d3ddfe7c3/City_Sites_logo.png?h=250" width="30%" alt="City Sites" align="right"/>
       <h3>City Sites</h3>
         <br />
         <p><a href="https://github.com/cafloyd/cityBucketList">Repo</a></p>
+        <br />
+        <details>
+        <summary>More</summary>
         <p>A mobile app allowing users to maintain city-specific bucket lists. Built using Flutter, Dart, and Google Places APIs</p>
+        </details>
     </td>
   </tr>
 </table>
