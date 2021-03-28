@@ -60,8 +60,6 @@ See [my website](https://caitlinfloyd.com) for more information!
         </details>
     </td>
   </tr>
-</table>
-<table bordercolor="#66b2b2">
   <tr>
     <td width="33%" valign="top">
       <a href="https://sendacarekit.herokuapp.com/">
