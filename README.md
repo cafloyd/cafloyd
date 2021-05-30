@@ -42,7 +42,7 @@ See [my website](https://caitlinfloyd.com) for more information!
         </a>
     </td>
     <td width="33%" valign="top">
-      <a href="https://chrome.google.com/webstore/detail/couch-potato/aheloceipokicgchednkbmlaejgcpllo?hl=en-US" />
+      <a href="https://github.com/2001-math-max-fury-road/CouchPotato" />
           <img src="./images/couch-potato-logo.png" width="30%" alt="Couch Potato logo" align="right" />
       </a>
       <h3>Couch Potato</h3>
