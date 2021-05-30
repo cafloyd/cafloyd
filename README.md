@@ -1,19 +1,19 @@
 <a href="https://caitlinfloyd.com/">
-  <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/Github-header.png" width="100%">
+  <img src="./images/Github-header.png" width="100%">
 </a>
 
 <p align="center">
   <a href="https://caitlinfloyd.com/">
-    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-link.png" width="30px;" alt="Portfolio Site" />
+    <img src="./images/branded-link.png" width="30px;" alt="Portfolio Site" />
   </a>
   <a href="https://www.linkedin.com/in/caitlinfloyd/">
-    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-linkedin.png" width="30px;" alt="LinkedIn" />
+    <img src="./images/branded-linkedin.png" width="30px;" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/caitlinfloyd">
-    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-twitter.png" width="30px;" alt="Twitter" />
+    <img src="./images/branded-twitter.png" width="30px;" alt="Twitter" />
   </a>
   <a href="https://medium.com/@caitlinfloyd">
-    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-medium.png" width="30px;" alt="Medium"/>
+    <img src="./images/branded-medium.png" width="30px;" alt="Medium"/>
   </a>
 </p>
 
@@ -28,65 +28,32 @@ See [my website](https://caitlinfloyd.com) for more information!
 <table bordercolor="#66b2b2">
   <tr>
     <td width="33%" valign="top">
+      <a href="https://github.com/the-collab-lab/tcl-22-smart-shopping-list" />
+          <img src="./images/avoCart-logo.png" width="30%" alt="avoCart logo" align="right"/>
+      </a>
+      <h3>avoCart</h3>
+        <br />
+        <p><a href="https://github.com/the-collab-lab/tcl-22-smart-shopping-list">Repo</a> // <a href="https://tcl-22-shopping-list.web.app/">Site</a> // <a href="https://youtu.be/XJ5hsiWm7Z0?t=90">Demo</a></p>
+        <br />
+        <p>Smart shopping list that learns your buying habits and helps you remember what you need to buy on your next trip to the store.<br /><br />
+        Built using React.js, Firebase, Material UI, and Styled Components</p>
+        <a href="https://tcl-22-shopping-list.web.app/">
+            <img src="./images/demo-avoCart.gif" width="100%" alt="avoCart demo"/>
+        </a>
+    </td>
+    <td width="33%" valign="top">
       <a href="https://chrome.google.com/webstore/detail/couch-potato/aheloceipokicgchednkbmlaejgcpllo?hl=en-US" />
-          <img src="https://images.ctfassets.net/rzdzst0q8sl8/7IOYLCO7FaiNFLzjmJZte9/2fd6b0fb6c8b298c517c1c58e67740bd/Couch_Potato_logo.png?h=250" width="30%" alt="Couch Potato" align="right"/>
+          <img src="./images/couch-potato-logo.png" width="30%" alt="Couch Potato logo" align="right" />
       </a>
       <h3>Couch Potato</h3>
         <br />
-        <p><a href="https://github.com/2001-math-max-fury-road/CouchPotato">Repo</a> // <a href="https://chrome.google.com/webstore/detail/couch-potato/aheloceipokicgchednkbmlaejgcpllo?hl=en-US">Extension</a></p>
+        <p><a href="https://github.com/2001-math-max-fury-road/CouchPotato">Repo</a> // <a href="https://chrome.google.com/webstore/detail/couch-potato/aheloceipokicgchednkbmlaejgcpllo?hl=en-US">Extension</a> // <a href="https://www.youtube.com/watch?v=CQt5qoKtEBU">Demo</a></p>
         <br />
-        <details>
-        <summary>More</summary>
+        <p>A Chrome extension allowing multiple users to stream video content together remotely. <br /><br />
+        Built using JavaScript, React.js, Express.js, Socket.io, and Heroku</p>
         <a href="https://chrome.google.com/webstore/detail/couch-potato/aheloceipokicgchednkbmlaejgcpllo?hl=en-US">
-            <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/demo-couch-potato.gif" width="100%" alt="Couch Potato"/>
+            <img src="./images/demo-couch-potato.gif" width="100%" alt="Couch Potato demo"/>
         </a>
-        <p>A Chrome extension allowing multiple users to stream video content together remotely. Built using JavaScript, React.js, Express.js, Socket.io, and Heroku</p>
-        </details>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://caitlinfloyd.com" />
-          <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/initials.png" width="30%" alt="Portfolio" align="right"/>
-      </a>
-      <h3>Portfolio</h3>
-        <br />
-        <p><a href="https://github.com/cafloyd/devPortfolio">Repo</a> // <a href="https://chrome.google.com/webstore/detail/couch-potato/aheloceipokicgchednkbmlaejgcpllo?hl=en-US">Site</a></p>
-        <br />
-        <details>
-        <summary>More</summary>
-        <a href="https://caitlinfloyd.com">
-            <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/demo-portfolio.gif" width="100%" alt="Couch Potato"/>
-        </a>
-        <p>Built using Javascript, Gatsby.js, React.js, Contentful CMS</p>
-        </details>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://sendacarekit.herokuapp.com/">
-        <img src="https://images.ctfassets.net/rzdzst0q8sl8/3oXxnDLThz52SkjZP47Pzk/991d08d246f7a0c5146c16ab223b7700/Care_Kit_logo.png?h=250" width="30%" alt="Care Kit" align="right"/>
-      <h3>Care Kit</h3>
-        </a>
-        <br />
-        <p><a href="https://github.com/2001-one-flew-over-the-cuckoo/grace-shopper">Repo</a> // <a href="https://sendacarekit.herokuapp.com/">Site</a></p>
-        <br />
-        <details>
-        <summary>More</summary>
-        <a href="https://sendacarekit.herokuapp.com/">
-          <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/demo-care-kit.gif" width="100%" alt="Care Kit"/>
-        </a>
-        <p>An e-commerce, single-page application for custom care packages. Built using JavaScript, React.js, Express.js, Sequelize, Redux, CSS</p>
-        </details>
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://images.ctfassets.net/rzdzst0q8sl8/7IJ6gnFL7aEsz82M9qesvU/f53de9c2762d974a0fd56e9d3ddfe7c3/City_Sites_logo.png?h=250" width="30%" alt="City Sites" align="right"/>
-      <h3>City Sites</h3>
-        <br />
-        <p><a href="https://github.com/cafloyd/cityBucketList">Repo</a></p>
-        <br />
-        <details>
-        <summary>More</summary>
-        <p>A mobile app allowing users to maintain city-specific bucket lists. Built using Flutter, Dart, and Google Places APIs</p>
-        </details>
     </td>
   </tr>
 </table>
